@@ -24,7 +24,7 @@ Create and use a .gitignore file
 
 Diff split screen
 
-To complete thsi project we completed the following parts:
+To complete this project we completed the following parts:
 
 Part 1. Completed Lab 2
 
